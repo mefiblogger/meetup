@@ -1,4 +1,4 @@
-phpmeetup
+meetup
 =========
 
-A PHPMeetup eloadasaihoz hasznalt kodok es diak gyulnek itt.
+Slides and other stuff for meetups.
